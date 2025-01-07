@@ -381,14 +381,11 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Implement new features or enhancements and submit pull requests.
 - Improve documentation and README files.
 
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Creator
 
-- **EL HADDOUMI Mohammed** - [hoangsonww](https://github.com/elhaddoumi1999)
-- **Email:** [hoangson091104@gmail.com](mailto:elhaddoumi99@gmail.com).
+- **EL HADDOUMI Mohammed** - [EL HADDOUMI](https://github.com/elhaddoumi1999)
+- **Email:** [elhaddoumi99@gmail.com](mailto:elhaddoumi99@gmail.com).
 
 ---
 
