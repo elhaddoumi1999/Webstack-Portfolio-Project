@@ -45,73 +45,73 @@ The backend server is deployed on Render and can be accessed at the following UR
 ### Home Page
 
 <p align="center">
-    <img src="docs/home-ui.png" alt="TechnoBay  Electronics Homepage" style="border-radius: 10px" width="100%"/>
+    <img src="docs/home-ui.png.png" alt="TechnoBay  Electronics Homepage" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Full Product List
 
 <p align="center">
-    <img src="docs/products-ui.png" alt="TechnoBay  Electronics Products List" style="border-radius: 10px" width="100%"/>
+    <img src="docs/products-ui.png.png" alt="TechnoBay  Electronics Products List" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Search Results
 
 <p align="center">
-    <img src="docs/search-results-ui.png" alt="TechnoBay  Electronics Search Results" style="border-radius: 10px" width="100%"/>
+    <img src="docs/search-results-ui.png.png" alt="TechnoBay  Electronics Search Results" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Product Details Page
 
 <p align="center">
-    <img src="docs/product-details-ui.png" alt="TechnoBay  Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/product-details-ui.png.png" alt="TechnoBay  Electronics Product Details Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Cart Page
 
 <p align="center">
-    <img src="docs/cart-ui.png" alt="TechnoBay  Electronics Cart Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/cart-ui.png.png" alt="TechnoBay  Electronics Cart Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Checkout Page
 
 <p align="center">
-    <img src="docs/checkout-ui.png" alt="TechnoBay  Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/checkout-ui.png.png" alt="TechnoBay  Electronics Checkout Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Login Page
 
 <p align="center">
-    <img src="docs/login-ui.png" alt="TechnoBay  Electronics Login Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/login-ui.png.png" alt="TechnoBay  Electronics Login Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Register Page
 
 <p align="center">
-    <img src="docs/register-ui.png" alt="TechnoBay  Electronics Register Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/register-ui.png.png" alt="TechnoBay  Electronics Register Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Forgot Password Page
 
 <p align="center">
-    <img src="docs/forgot-password-ui.png" alt="TechnoBay  Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/forgot-password-ui.png.png" alt="TechnoBay  Electronics Forgot Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Reset Password Page
 
 <p align="center">
-    <img src="docs/reset-password-ui.png" alt="TechnoBay  Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/reset-password-ui.png.png" alt="TechnoBay  Electronics Reset Password Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Order Confirmation
 
 <p align="center">
-    <img src="docs/order-ui.png" alt="TechnoBay  Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
+    <img src="docs/order-ui.png.png" alt="TechnoBay  Electronics Order Success Page" style="border-radius: 10px" width="100%"/>
 </p>
 
 ### Footer
 
 <p align="center">
-    <img src="docs/footer.png" alt="TechnoBay  Electronics Footer" style="border-radius: 10px" width="100%"/>
+    <img src="docs/footer.png.png" alt="TechnoBay  Electronics Footer" style="border-radius: 10px" width="100%"/>
 </p>
 
 ## Features
