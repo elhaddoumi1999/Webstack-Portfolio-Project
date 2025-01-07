@@ -9,11 +9,11 @@ const swaggerDefinition = {
     version: '1.1.0', // API version
     description:
       'API documentation for the TechnoBay E-Commerce backend server. This documentation provides detailed information on all available endpoints for managing products, users, authentication, and more.',
-    termsOfService: 'https://mern-stack-ecommerce-app-nine.vercel.app',
+    termsOfService: 'https://webstack-portfolio-project-self.vercel.app/',
     contact: {
       name: 'TechnoBay E-Commerce Website',
-      url: 'https://mern-stack-ecommerce-app-nine.vercel.app',
-      email: 'hoangson091104@gmail.com', // Contact email
+      url: 'https://webstack-portfolio-project-self.vercel.app/',
+      email: 'elhaddoumi99@gmail.com', // Contact email
     },
     license: {
       name: 'MIT License',
